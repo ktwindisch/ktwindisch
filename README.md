@@ -22,6 +22,8 @@ Kevin Windisch
 CompTia
 <li>Intro to OSINT</li><b></b>
 Security Blue Team
+<li>Splunk Fundamentals</li><b></b>
+Splunk
 <li>Foundations of Cybersecurity</li><b></b>
 Google
 <li>Certified Cloud Practitioner</li><b></b>
