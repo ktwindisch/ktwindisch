@@ -17,7 +17,7 @@ Kevin Windisch
 - <b>Internal Security Audit</b>
   - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
 
-<h2>📺 Certifications</h2>
+<h2>🧾 Certifications:</h2>
 <li>A+</li><b></b>
 CompTia
 <li>Intro to OSINT</li><b></b>
