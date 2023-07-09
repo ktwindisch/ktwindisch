@@ -18,18 +18,13 @@ Kevin Windisch
   - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
 
 <h2>🧾 Certifications:</h2>
-<li>A+</li><b></b>
-CompTia
-<li>Intro to OSINT</li><b></b>
-Security Blue Team
+<li>CompTia A+</li><b></b>
 <li>Splunk Fundamentals</li><b></b>
-Splunk
-<li>Foundations of Cybersecurity</li><b></b>
-Google
-<li>Certified Cloud Practitioner</li><b></b>
-AWS
+<li>AWS Certified Cloud Practitioner</li><b></b>
 <li>Salesforce Certified Administrator</li><b></b>
-Salesforce
+<li>Security Blue Team: Intro to OSINT</li><b></b>
+<li>Google: Foundations of Cybersecurity</li><b></b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="KevinWindisch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
