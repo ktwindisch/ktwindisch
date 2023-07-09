@@ -10,15 +10,14 @@ I am also an expert in questioning and gathering business requirements, and I am
 
 I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am able to work effectively under pressure. Thank you for your time and consideration. I look forward to hearing from you soon.
 
-Sincerely,
-
+Sincerely,<br/>
 Kevin Windisch
 </h4>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
