@@ -18,6 +18,8 @@ Kevin Windisch
   - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
 - <b>Incident Report Analysis</b>
   - [Network Incident Response Report](https://github.com/ktwindisch/NIST-CFS-IncidentReport)
+- <b>Linux User Permission Audit</b>
+  - [File Permissions Audit](https://github.com/ktwindisch/LinuxUserPermissionAudit)
 
 <h2>🧾 Certifications:</h2>
 <li>CompTia A+</li><b></b>
