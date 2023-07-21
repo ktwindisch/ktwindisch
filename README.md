@@ -1,13 +1,17 @@
-<h2>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/salesforcekevin/">Cybersecurity Professional</a>,  <a href="https://trailblazer.me/id/kwindisch">Salesforce Administrator</a>,  <a href="https://medium.com/@SalesforceKevin">Blogger</a></h2>
+<h2>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/salesforcekevin/">Identity Security Professional</a>,  <a href="https://trailblazer.me/id/kwindisch">Salesforce Administrator</a>,  <a href="https://medium.com/@SalesforceKevin">Blogger</a></h2>
 
 <p align="center"><h2> 🪪 Professional Statement</h2></p>
 
-I am a Filipino-American Salesforce Administrator and Army Veteran with 5+ years of security experience. I have strong analytical and data skills, and I am passionate about efficiency and solving complex problems. I am excited about a career in Cybersecurity, and I believe my skills and experience make me a valuable asset.<br/>
+🔒 As a Filipino-American, my career journey has been shaped by a passion for security measures, which has guided me towards a path of identity security and protection of sensitive data. With over 16 years of experience in the industry, I bring to the table a unique blend of analytical prowess, a keen interest in understanding data, and the ability to utilize information to drive informed business decisions.<br/>
 <br/>
-I am proficient in Salesforce security features, and I am able to identify and mitigate risks. I am also an expert in questioning and gathering business requirements, and I am able to make informed decisions about how to protect organizations. I have a proven track record of managing risks and ensuring the confidentiality, integrity, and availability of sensitive data. I am also patient and understanding, and I am able to work with users at their own pace. I am confident that I can make a significant contribution to your organization's Cybersecurity team.<br/>
+🌟 Embracing the landscape of cybersecurity, I am thrilled at the prospect of channeling my expertise into this field. My proficiency in Salesforce administration, coupled with my dedication to security, positions me as a valuable asset to any organization looking to fortify its digital defenses.<br/>
 <br/>
-I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and I am able to work effectively under pressure. Thank you for your time and consideration. I look forward to hearing from you soon.<br/>
+🌎 Looking ahead, I firmly believe that I can make a substantial contribution to your organization's cybersecurity team. My strong work ethic, motivation, and results-oriented mindset make me a reliable team player, capable of thriving under pressure. I am always eager to embrace new tech stacks and continuously enhance my skills, driven by a desire to make a positive impact on the world.<br/>
 <br/>
+🔭 Presently, I am expanding my knowledge in the Google Professional Cybersecurity certification program. This comprehensive 8-course series equips me with fundamental principles of cybersecurity, risk management, network security, Linux, SQL, asset protection, threat identification, vulnerability management, and python automation. I am also learning MS Azure fundamentals with A Cloud Guru in the Veterans For Azure program.<br/>
+
+I appreciate you taking the time to read this and for your consideration. I look forward to hearing from you soon.
+
 Sincerely,<br/>
 Kevin Windisch
 
@@ -20,15 +24,16 @@ Kevin Windisch
   - [Network Incident Response Report](https://github.com/ktwindisch/NIST-CFS-IncidentReport)
 - <b>Linux User Permission Audit</b>
   - [File Permissions Audit](https://github.com/ktwindisch/LinuxUserPermissionAudit)
+- <b>Security Investigation Using SQL Filters</b>
+  - [Investigating Security Issues with SQL Filters](https://github.com/ktwindisch/Investigating-Security-Issues-with-SQL-Filters)
 
 <h2>🧾 Certifications:</h2>
 <li>CompTia A+</li><b></b>
 <li>Splunk Fundamentals</li><b></b>
-<li>Google: Manage Security Risks</li><b></b>
 <li>AWS Certified Cloud Practitioner</li><b></b>
 <li>Salesforce Certified Administrator</li><b></b>
 <li>Security Blue Team: Intro to OSINT</li><b></b>
-<li>Google: Foundations of Cybersecurity</li><b></b>
+<li>Google Certifications: Foundations of Cybersecurity, Manage Security Risks, Networks and Network Security, Linux and SQL</li><b></b>
 
 <h2> 🤳 Connect with me:</h2>
 
