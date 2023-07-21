@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/salesforcekevin/">Identity Security Professional</a>,  <a href="https://trailblazer.me/id/kwindisch">Salesforce Administrator</a>,  <a href="https://medium.com/@SalesforceKevin">Blogger</a></h2>
 
-<p align="center"><h2> 🪪 Professional Statement</h2></p>
+<div align="center"><h2> 🪪 Professional Statement</h2></div>
 
 🔒 As a Filipino-American, my career journey has been shaped by a passion for security measures, which has guided me towards a path of identity security and protection of sensitive data. With over 16 years of experience in the industry, I bring to the table a unique blend of analytical prowess, a keen interest in understanding data, and the ability to utilize information to drive informed business decisions.<br/>
 <br/>
