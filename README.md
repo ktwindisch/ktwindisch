@@ -26,7 +26,7 @@ Kevin Windisch
   - [File Permissions Audit](https://github.com/ktwindisch/LinuxUserPermissionAudit)
 - <b>Security Investigation Using SQL Filters</b>
   - [Investigating Security Issues with SQL Filters](https://github.com/ktwindisch/Investigating-Security-Issues-with-SQL-Filters)
-- <b>Vulnerability Assessment</b>
+- <b>Remote Database Server Vulnerability Assessment</b>
   - [Vulnerability Assessment Report](https://github.com/ktwindisch/Vulnerability-Assessment-Report)
 
 <h2>🧾 Certifications:</h2>
