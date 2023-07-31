@@ -37,7 +37,7 @@ Kevin Windisch
 <li>AWS Certified Cloud Practitioner</li><b></b>
 <li>Salesforce Certified Administrator</li><b></b>
 <li>Security Blue Team: Intro to OSINT</li><b></b>
-<li>Google Certifications: Foundations of Cybersecurity, Manage Security Risks, Networks and Network Security, Linux and SQL</li><b></b>
+<li>Google Certifications: Foundations of Cybersecurity, Manage Security Risks, Networks and Network Security, Linux and SQL, Assets, Threats, and Vulnerabilities, Detection and Response</li><b></b>
 
 <h2> 🤳 Connect with me:</h2>
 
