@@ -8,7 +8,7 @@
 <br/>
 🌎 Looking ahead, I firmly believe that I can make a substantial contribution to your organization's cybersecurity team. My strong work ethic, motivation, and results-oriented mindset make me a reliable team player, capable of thriving under pressure. I am always eager to embrace new tech stacks and continuously enhance my skills, driven by a desire to make a positive impact on the world.<br/>
 <br/>
-🔭 Presently, I am expanding my knowledge in the Google Professional Cybersecurity certification program. This comprehensive 8-course series equips me with fundamental principles of cybersecurity, risk management, network security, Linux, SQL, asset protection, threat identification, vulnerability management, and python automation. I am also learning MS Azure fundamentals with A Cloud Guru in the Veterans For Azure program.<br/>
+🔭 Presently, I am currently expanding my knowledge in Microsoft Azure cloud security and identity and access management (IAM) engineering principles to further develop my career as an identity security professional. I am also studying for the Az-900 fundamentals exam.<br/>
 
 I appreciate you taking the time to read this and for your consideration. I look forward to hearing from you soon.
 
@@ -39,7 +39,7 @@ Kevin Windisch
 <li>AWS Certified Cloud Practitioner</li><b></b>
 <li>Salesforce Certified Administrator</li><b></b>
 <li>Security Blue Team: Intro to OSINT</li><b></b>
-<li>Google Certifications: Foundations of Cybersecurity, Manage Security Risks, Networks and Network Security, Linux and SQL, Assets, Threats, and Vulnerabilities, Detection and Response</li><b></b>
+<li>Google: Cybersecurity Professional</li><b></b>
 
 <h2> 🤳 Connect with me:</h2>
 
