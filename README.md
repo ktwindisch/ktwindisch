@@ -2,13 +2,13 @@
 
 <div align="center"><h2> 🪪 Professional Statement</h2></div>
 
-🔒 As a Filipino-American, my career journey has been shaped by a passion for security measures, which has guided me towards a path of identity security and protection of sensitive data. With over 16 years of experience in the industry, I bring to the table a unique blend of analytical prowess, a keen interest in understanding data, and the ability to utilize information to drive informed business decisions.<br/>
+🔒 As a Filipino-American, my career journey has been shaped by a passion for security measures, which has guided me towards a path of identity security and protection of sensitive data. With over 16 years of experience, across several industries, I bring to the table a unique blend of analytical prowess, a keen interest in understanding data, and the ability to utilize information to drive informed business decisions.<br/>
 <br/>
-🌟 Embracing the landscape of cybersecurity, I am thrilled at the prospect of channeling my expertise into this field. My proficiency in Salesforce administration, coupled with my dedication to security, positions me as a valuable asset to any organization looking to fortify its digital defenses.<br/>
+🌟 Embracing the landscape of cybersecurity, I am thrilled at the prospect of channeling my expertise into this field. My proficiency in system administration, coupled with my dedication to security, positions me as a valuable asset to any organization looking to fortify its digital defenses.<br/>
 <br/>
 🌎 Looking ahead, I firmly believe that I can make a substantial contribution to your organization's cybersecurity team. My strong work ethic, motivation, and results-oriented mindset make me a reliable team player, capable of thriving under pressure. I am always eager to embrace new tech stacks and continuously enhance my skills, driven by a desire to make a positive impact on the world.<br/>
 <br/>
-🔭 Presently, I am currently expanding my knowledge in Microsoft Azure cloud security and identity and access management (IAM) engineering principles to further develop my career as an identity security professional. I am also studying for the Az-900 fundamentals exam.<br/>
+🔭 Presently, I am currently an extern with the ServiceNow NexGen Professionals Program and studying for the Certified Systems Administrator exam. I am also expanding my knowledge in Microsoft Azure cloud security and identity and access management (IAM) engineering principles to further develop my career as an identity security professional.<br/>
 
 I appreciate you taking the time to read this and for your consideration. I look forward to hearing from you soon.
 
