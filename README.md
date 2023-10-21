@@ -18,6 +18,8 @@ Kevin Windisch
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>ServiceNow Implementation for Strawberry Inc.</b>
+  - [ServiceNow Deployment](https://github.com/ktwindisch/SNOW-Deployment)
 - <b>Internal Security Audit</b>
   - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
 - <b>Incident Report Analysis</b>
