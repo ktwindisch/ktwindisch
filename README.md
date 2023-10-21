@@ -36,8 +36,9 @@ Kevin Windisch
 <h2>🧾 Certifications:</h2>
 <li>CompTia A+</li><b></b>
 <li>Splunk Fundamentals</li><b></b>
+li>ServiceNow Fundamentals</li><b></b>
 <li>AWS Certified Cloud Practitioner</li><b></b>
-<li>Salesforce Certified Administrator</li><b></b>
+<li>2x Salesforce Certified Administrator</li><b></b>
 <li>Security Blue Team: Intro to OSINT</li><b></b>
 <li>Google: Cybersecurity Professional</li><b></b>
 
