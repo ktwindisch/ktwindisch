@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kevin! <br/><a href="https://trailblazer.me/id/kwindisch">Salesforce Certified Administrator</a>, <a href="https://www.linkedin.com/in/salesforcekevin/">LinkedIn</a>, <a href="https://medium.com/@SalesforceKevin">Blog</a></h2>
 
-<div align="center"><h2> 🪪 Professional Statement</h2></div>
+<div align="center"><h2>Professional Statement</h2></div>
 
 🌱 With over three years of dedicated experience in the dynamic Salesforce landscape, I've been profoundly shaped by my roles as a Salesforce Administrator and Quality Assurance Engineer. Currently enrolled in the Talent Stacker Career Development Program, I am taking a crucial step to immerse myself further in the Salesforce ecosystem, driven by a passion that fuels my ongoing professional development.<br/>
 <br/>
