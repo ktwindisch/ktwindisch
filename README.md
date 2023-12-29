@@ -1,14 +1,14 @@
-<h2>Hi, I'm Kevin! <br/><a href="https://www.linkedin.com/in/salesforcekevin/">ServiceNow Professional</a>,  <a href="https://trailblazer.me/id/kwindisch">Salesforce Administrator</a>,  <a href="https://medium.com/@SalesforceKevin">Blogger</a></h2>
+<h2>Hi, I'm Kevin! <br/><a href="https://trailblazer.me/id/kwindisch">Salesforce Certified Administrator</a>, <a href="https://www.linkedin.com/in/salesforcekevin/">LinkedIn</a>, <a href="https://medium.com/@SalesforceKevin">Blog</a></h2>
 
 <div align="center"><h2> 🪪 Professional Statement</h2></div>
 
-🔒 As a Filipino-American, my career journey has been shaped by a passion for security measures, which has guided me towards a path of identity security and protection of sensitive data. With over 16 years of experience, across several industries, I bring to the table a unique blend of analytical prowess, a keen interest in understanding data, and the ability to utilize information to drive informed business decisions.<br/>
+🌱 With over three years of dedicated experience in the dynamic Salesforce landscape, I've been profoundly shaped by my roles as a Salesforce Administrator and Quality Assurance Engineer. Currently enrolled in the Talent Stacker Career Development Program, I am taking a crucial step to immerse myself further in the Salesforce ecosystem, driven by a passion that fuels my ongoing professional development.<br/>
 <br/>
-🌟 Embracing the landscape of cybersecurity, I am thrilled at the prospect of channeling my expertise into this field. My proficiency in system administration, coupled with my dedication to security, positions me as a valuable asset to any organization looking to fortify its digital defenses.<br/>
+🔧 Leveraging a 16-year career spanning diverse industries, I, as a US Army Veteran, have cultivated a unique skill set integrating analytical acumen, a fervor for data complexities, and the ability to transform information into strategic business insights.<br/>
 <br/>
-🌎 Looking ahead, I firmly believe that I can make a substantial contribution to your organization's cybersecurity team. My strong work ethic, motivation, and results-oriented mindset make me a reliable team player, capable of thriving under pressure. I am always eager to embrace new tech stacks and continuously enhance my skills, driven by a desire to make a positive impact on the world.<br/>
+🌎 Looking ahead, I firmly believe that I can make a substantial contribution to your organization's Salesforce team. My strong work ethic, motivation, and results-oriented mindset make me a reliable team player, capable of thriving under pressure. I am always eager to embrace new tech stacks and continuously enhance my skills, driven by a desire to make a positive impact on the world.<br/>
 <br/>
-🔭 Presently, I am currently an extern with the ServiceNow NexGen Professionals Program and studying for the Certified Systems Administrator exam. I am also expanding my knowledge in Microsoft Azure cloud security and identity and access management (IAM) engineering principles to further develop my career as an identity security professional.<br/>
+🔭 Presently, I am enrolled in the Talent Stacker Salesforce Career Development Program. I am also expanding my knowledge on Trailhead to further develop my skills as a Salesforce Certified Professional.<br/>
 
 I appreciate you taking the time to read this and for your consideration. I look forward to hearing from you soon.
 
