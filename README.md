@@ -11,13 +11,13 @@ My interest in technology has always centered on building practical solutions to
 I previously earned the AWS Certified Cloud Practitioner certification and have since shifted focus toward cloud engineering through technical blogging, Linux practice, and project-based learning.
 
 I’m especially interested in:
-Cloud Engineering<br/>
-AWS<br/>
-Linux<br/>
-Infrastructure<br/>
-System Design<br/>
-Automation<br/>
-Technical Problem Solving<br/>
+- Cloud Engineering<br/>
+- AWS<br/>
+- Linux<br/>
+- Infrastructure<br/>
+- System Design<br/>
+- Automation<br/>
+- Technical Problem Solving<br/>
 
 Outside of certifications and coursework, I prioritize building, troubleshooting, and consistent hands-on practice as the foundation of long-term growth.
 <br/><br/>
