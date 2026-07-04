@@ -9,6 +9,7 @@ Over the past several years, I've worked with enterprise platforms, system admin
 Today, my focus is on building practical cloud engineering skills through hands-on projects. I'm developing a Linux-based homelab where I can design, automate, monitor, and manage infrastructure using technologies such as Ubuntu Server, Bash, Docker, Terraform, GitHub Actions, Ansible, and AWS.
 
 I believe the best way to learn is by building real systems, documenting the process, and understanding not only how technologies work, but why they are designed the way they are. My GitHub reflects that philosophy by showcasing projects that emphasize problem solving, automation, and continuous improvement.
+<br><br/>
 
 Current Areas of Focus:<br/>
 - Cloud Engineering<br/>
