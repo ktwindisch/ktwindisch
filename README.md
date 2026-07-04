@@ -22,7 +22,7 @@ Current Areas of Focus:<br/>
 - CI/CD<br/>
 - Automation<br/>
 - Monitoring and Observability<br/>
-
+<br><br/>
 Thanks for stopping by. Feel free to explore my projects, follow my engineering journey, or connect with me on LinkedIn.
 <br><br/>
 
