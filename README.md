@@ -2,26 +2,29 @@
 
 <div align="center"><h2>Professional Statement</h2></div>
 
-I’m a U.S. Army Veteran and Salesforce Administrator currently transitioning deeper into cloud engineering, Linux, and AWS.
+I'm a U.S. Army Veteran with a background in Salesforce administration and quality assurance who is transitioning into Cloud and DevOps engineering.
 
-Over the past several years, I’ve worked across Salesforce administration, quality assurance, system configuration, troubleshooting, and process improvement while continuously expanding my technical skills through hands-on learning and independent projects.
+Over the past several years, I've worked with enterprise platforms, system administration, troubleshooting, user access management, and process improvement. Those experiences gave me a strong foundation in understanding how production systems are configured, maintained, and supported.
 
-My interest in technology has always centered on building practical solutions to real-world problems. Over time, that curiosity has naturally expanded beyond platform administration into cloud infrastructure, Linux systems, and how technology operates at a deeper level.
+Today, my focus is on building practical cloud engineering skills through hands-on projects. I'm developing a Linux-based homelab where I can design, automate, monitor, and manage infrastructure using technologies such as Ubuntu Server, Bash, Docker, Terraform, GitHub Actions, Ansible, and AWS.
 
-I previously earned the AWS Certified Cloud Practitioner certification and have since shifted focus toward cloud engineering through technical blogging, Linux practice, and project-based learning.
+I believe the best way to learn is by building real systems, documenting the process, and understanding not only how technologies work, but why they are designed the way they are. My GitHub reflects that philosophy by showcasing projects that emphasize problem solving, automation, and continuous improvement.
 
-I’m especially interested in:
+Current Areas of Focus:<br/>
 - Cloud Engineering<br/>
+- Linux System Administration<br/>
+- DevOps<br/>
+- Infrastructure as Code<br/>
 - AWS<br/>
-- Linux<br/>
-- Infrastructure<br/>
-- System Design<br/>
+- Bash Scripting<br/>
+- Docker<br/>
+- Terraform<br/>
+- CI/CD<br/>
 - Automation<br/>
-- Technical Problem Solving<br/>
+- Monitoring and Observability<br/>
 
-Outside of certifications and coursework, I prioritize building, troubleshooting, and consistent hands-on practice as the foundation of long-term growth.
-<br/><br/>
-Kevin Windisch
+Thanks for stopping by. Feel free to explore my projects, follow my engineering journey, or connect with me on LinkedIn.
+<br><br/>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
