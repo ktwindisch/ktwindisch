@@ -1,4 +1,4 @@
-<h2>Hi, I'm Kevin! <br/><a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a>, <a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">🌥️ Cloud Engineering Journal</a></h2>
+<h2>Hi, I'm Kevin! <br/><a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a>, <a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">🌥️ Cloud Engineering Journal</a></h2> ![](https://komarev.com/ghpvc/?username=ktwindisch)
 
 <div align="center"><h2>Professional Statement</h2></div>
 
