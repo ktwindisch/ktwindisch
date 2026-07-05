@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kevin!</h2>
   
-  <h2><a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a>, <a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">🌥️ Cloud Engineering Journal</a></h2> ![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
+  <h2><a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a>, <a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">🌥️ Cloud Engineering Journal</a></h2>
 
 <div align="center"><h2>Professional Statement</h2></div>
 
@@ -63,6 +63,8 @@ Thanks for stopping by. Feel free to explore my projects, follow my engineering 
 [<img align="left" alt="KevinWindisch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/kevinwindisch
+</br>
+![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
 <!--
 **ktwindisch/ktwindisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
