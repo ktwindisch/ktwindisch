@@ -58,13 +58,11 @@ Thanks for stopping by. Feel free to explore my projects, follow my engineering 
 <li>Security Blue Team: Intro to OSINT</li><b></b>
 <li>Google: Cybersecurity Professional</li><b></b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> ![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
 
 [<img align="left" alt="KevinWindisch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/kevinwindisch
-</br>
-![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
 <!--
 **ktwindisch/ktwindisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
