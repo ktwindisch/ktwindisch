@@ -1,82 +1,103 @@
-<h2>Hi, I'm Kevin!</h2>
-  
-  <h3><a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">Cloud & DevOps Journal</a>, <a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a></h3>
+# Hi, I'm Kevin Windisch
 
-<div align="center"><h2>Professional Statement</h2></div>
+**Cloud DevOps Engineer in Progress | Army Veteran | Linux | AWS | Terraform | Bash | Automation**
 
-I'm a U.S. Army Veteran with a background in Salesforce administration and quality assurance who is transitioning into Cloud and DevOps engineering.
+I'm a U.S. Army Veteran and IT Support / Systems Administration professional with four years of experience supporting enterprise platforms, incident management, identity and access management, and mission-critical operations in 24/7 environments.
 
-Over the past several years, I've worked with enterprise platforms, system administration, troubleshooting, user access management, and process improvement. Those experiences gave me a strong foundation in understanding how production systems are configured, maintained, and supported.
+My current focus is building toward Cloud DevOps, Cloud Operations, and infrastructure reliability roles through hands-on projects in Linux, AWS, Terraform, Bash, Docker, monitoring, CI/CD, and automation.
 
-Today, my focus is on building practical cloud engineering skills through hands-on projects. I'm developing a Linux-based homelab where I can design, automate, monitor, and manage infrastructure using technologies such as Ubuntu Server, Bash, Docker, Terraform, GitHub Actions, Ansible, and AWS.
+## Connect
 
-I believe the best way to learn is by building real systems, documenting the process, and understanding not only how technologies work, but why they are designed the way they are. My GitHub reflects that philosophy by showcasing projects that emphasize problem solving, automation, and continuous improvement.
-<br><br/>
+- [LinkedIn](https://www.linkedin.com/in/kevinwindisch)
+- [Cloud & DevOps Journal](https://medium.com/@Kwindisch)
+- [Trailhead Portfolio](https://trailblazer.me/id/kwindisch)
 
-Current Areas of Focus:<br/>
-- Cloud Engineering<br/>
-- Linux System Administration<br/>
-- DevOps<br/>
-- Infrastructure as Code<br/>
-- AWS<br/>
-- Bash Scripting<br/>
-- Docker<br/>
-- Terraform<br/>
-- CI/CD<br/>
-- Automation<br/>
-- Monitoring and Observability<br/>
-<br><br/>
-Thanks for stopping by. Feel free to explore my projects, follow my engineering journey, or connect with me on LinkedIn.
-<br><br/>
+---
 
+## Featured Project
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### Cloud Operations Homelab
 
-- <b>ServiceNow Implementation for Strawberry Inc.</b>
-  - [ServiceNow Deployment](https://github.com/ktwindisch/SNOW-Deployment)
-- <b>Internal Security Audit</b>
-  - [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
-- <b>Incident Report Analysis</b>
-  - [Network Incident Response Report](https://github.com/ktwindisch/NIST-CFS-IncidentReport)
-- <b>Linux User Permission Audit</b>
-  - [File Permissions Audit](https://github.com/ktwindisch/LinuxUserPermissionAudit)
-- <b>Security Investigation Using SQL Filters</b>
-  - [Investigating Security Issues with SQL Filters](https://github.com/ktwindisch/Investigating-Security-Issues-with-SQL-Filters)
-- <b>Remote Database Server Vulnerability Assessment</b>
-  - [Vulnerability Assessment Report](https://github.com/ktwindisch/Vulnerability-Assessment-Report)
-- <b>My Incident Handler's Journal</b>
-  - [Incident Handler's Journal](https://github.com/ktwindisch/Incident-handlers-journal)
-- <b>IP Address Validation Using Python</b>
-  - [Allow List Manager](https://github.com/ktwindisch/IP-Address-Validation-Using-Python)
+Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, and cloud engineering skills through hands-on infrastructure projects.
 
-<h2>🧾 Certifications:</h2>
-<li>CompTia A+</li><b></b>
-<li>Splunk Fundamentals</li><b></b>
-<li>ServiceNow Fundamentals</li><b></b>
-<li>AWS Certified Cloud Practitioner</li><b></b>
-<li>2x Salesforce Certified Administrator</li><b></b>
-<li>Security Blue Team: Intro to OSINT</li><b></b>
-<li>Google: Cybersecurity Professional</li><b></b>
+**Current status:** Phase 2 complete: SSH Remote Administration  
+**Next phase:** Phase 3: Bash Automation
 
-<h2> 🤳 Connect with me:</h2>
+**Skills demonstrated so far:**
 
-[<img align="left" alt="KevinWindisch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Ubuntu Server installation and baseline configuration
+- Headless Linux server administration
+- SSH key-based authentication
+- SSH client alias configuration
+- SCP file transfer testing
+- Git and GitHub documentation workflow
+- Changelog and version tagging
+- Infrastructure documentation and troubleshooting notes
 
-[linkedin]: https://linkedin.com/in/kevinwindisch
-<br><br/>
-![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
+**Repository:** [Cloud Operations Homelab](https://github.com/ktwindisch/cloud-operations-homelab)
 
-<!--
-**ktwindisch/ktwindisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Homelab Roadmap
 
-Here are some ideas to get you started:
+| Phase | Focus | Status |
+|---|---|---|
+| Phase 0 | Project Foundation | Complete |
+| Phase 1 | Ubuntu Server Installation | Complete |
+| Phase 2 | SSH Remote Administration | Complete |
+| Phase 3 | Bash Automation | Next |
+| Phase 4 | Docker Services | Not Started |
+| Phase 5 | Monitoring and Observability | Not Started |
+| Phase 6 | Terraform and AWS | Not Started |
+| Phase 7 | GitHub Actions CI/CD | Not Started |
+| Phase 8 | Ansible Configuration Management | Not Started |
+| Phase 9 | Kubernetes Expansion | Future |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Areas of Focus
+
+- Cloud DevOps
+- Cloud Operations
+- Linux System Administration
+- AWS
+- Terraform
+- Infrastructure as Code
+- Bash Automation
+- Docker
+- Monitoring and Observability
+- CI/CD
+- GitHub Actions
+- Ansible
+
+---
+
+## Earlier Security Projects
+
+These projects come from my cybersecurity learning path and demonstrate documentation, analysis, Linux permissions, SQL filtering, incident response, and security fundamentals.
+
+- [ServiceNow Deployment](https://github.com/ktwindisch/SNOW-Deployment)
+- [Botium Toys Security Audit](https://github.com/ktwindisch/InternalSecurityAudit)
+- [Network Incident Response Report](https://github.com/ktwindisch/NIST-CFS-IncidentReport)
+- [File Permissions Audit](https://github.com/ktwindisch/LinuxUserPermissionAudit)
+- [Investigating Security Issues with SQL Filters](https://github.com/ktwindisch/Investigating-Security-Issues-with-SQL-Filters)
+- [Vulnerability Assessment Report](https://github.com/ktwindisch/Vulnerability-Assessment-Report)
+- [Incident Handler's Journal](https://github.com/ktwindisch/Incident-handlers-journal)
+- [Allow List Manager](https://github.com/ktwindisch/IP-Address-Validation-Using-Python)
+
+---
+
+## Certifications and Training
+
+- AWS Certified Cloud Practitioner
+- Salesforce Certified Administrator
+- ISC2 Certified in Cybersecurity
+- Google Cybersecurity Professional Certificate
+- ServiceNow NextGen Professionals Program
+- KodeKloud Cloud DevOps Engineer Learning Path
+- KodeKloud 100 Days of DevOps Challenge
+- Cloud Veterans Community: AWS Solutions Architect Associate learning path
+
+---
+
+## What I'm Building Toward
+
+My goal is to bring my production support, incident response, technical troubleshooting, documentation, and mission-critical operations experience into cloud infrastructure and DevOps roles where reliability, automation, communication, and disciplined execution matter.
