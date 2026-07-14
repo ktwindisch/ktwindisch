@@ -102,4 +102,6 @@ These projects come from my cybersecurity learning path and demonstrate document
 
 My goal is to bring my production support, incident response, technical troubleshooting, documentation, and mission-critical operations experience into cloud infrastructure and DevOps roles where reliability, automation, communication, and disciplined execution matter.
 
-![](https://komarev.com/ghpvc/?username=ktwindisch&label=PROFILE+VIEWS)
+---
+
+Thanks for visiting. I'm currently building my Cloud Operations Homelab and documenting the process publicly as I transition deeper into Cloud DevOps.
