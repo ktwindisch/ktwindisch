@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kevin!</h2>
   
-  <h2><a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">Cloud & DevOps Journal</a>, <a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a></h2>
+  <h3><a href="https://www.linkedin.com/in/kevinwindisch/">LinkedIn</a>, <a href="https://medium.com/@Kwindisch">Cloud & DevOps Journal</a>, <a href="https://trailblazer.me/id/kwindisch">Trailhead Portfolio</a></h3>
 
 <div align="center"><h2>Professional Statement</h2></div>
 
