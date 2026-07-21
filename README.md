@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Windisch
 
-**Cloud DevOps Engineer in Progress | Army Veteran | Linux | AWS | Terraform | Bash | Automation**
+Cloud DevOps / Cloud Operations in Progress | Army Veteran | Linux | AWS | Terraform | Bash | Automation
 
 I'm a U.S. Army Veteran and IT Support / Systems Administration professional with four years of experience supporting enterprise platforms, incident management, identity and access management, and mission-critical operations in 24/7 environments.
 
@@ -20,8 +20,8 @@ My current focus is building toward Cloud DevOps, Cloud Operations, and infrastr
 
 Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, and cloud engineering skills through hands-on infrastructure projects.
 
-**Current status:** Phase 2 complete: SSH Remote Administration  
-**Next phase:** Phase 3: Bash Automation
+**Current status:** Phase 3 in progress: Bash Automation  
+**Completed milestones:** Linux server foundation and SSH remote administration
 
 **Skills demonstrated so far:**
 
@@ -31,8 +31,9 @@ Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, 
 - SSH client alias configuration
 - SCP file transfer testing
 - Git and GitHub documentation workflow
-- Changelog and version tagging
+- Bash automation planning and script inventory
 - Infrastructure documentation and troubleshooting notes
+- Changelog updates and versioned GitHub milestones
 
 **Repository:** [Cloud Operations Homelab](https://github.com/ktwindisch/cloud-operations-homelab)
 
@@ -85,13 +86,16 @@ These projects come from my cybersecurity learning path and demonstrate document
 
 ---
 
-## Certifications and Training
+## Certifications
 
 - AWS Certified Cloud Practitioner
 - Salesforce Certified Administrator
 - ISC2 Certified in Cybersecurity
 - Google Cybersecurity Professional Certificate
 - ServiceNow NextGen Professionals Program
+
+## Current Training
+
 - KodeKloud Cloud DevOps Engineer Learning Path
 - KodeKloud 100 Days of DevOps Challenge
 - Cloud Veterans Community: AWS Solutions Architect Associate learning path
