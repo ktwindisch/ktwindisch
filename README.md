@@ -1,10 +1,10 @@
 # Hi, I'm Kevin Windisch
 
-Cloud DevOps / Cloud Operations in Progress | Army Veteran | Linux | AWS | Terraform | Docker | Bash | Automation
+Cloud Operations / Cloud Engineering in Progress | Army Veteran | Linux | AWS | Terraform | Docker | Bash | Prometheus | Grafana | Automation
 
 I'm a U.S. Army Veteran and IT Support / Systems Administration professional with four years of experience supporting enterprise platforms, incident management, identity and access management, and mission-critical operations in 24/7 environments.
 
-My current focus is building toward Cloud DevOps, Cloud Operations, and infrastructure reliability roles through hands-on projects in Linux, AWS, Terraform, Bash automation, Docker, monitoring, CI/CD, and infrastructure automation.
+My current focus is building toward Cloud Operations, Cloud Engineering, and infrastructure reliability roles through hands-on projects in Linux, AWS, Terraform, Bash automation, Docker, monitoring, CI/CD, and infrastructure automation.
 
 ## Connect
 
@@ -17,10 +17,11 @@ My current focus is building toward Cloud DevOps, Cloud Operations, and infrastr
 
 ### Cloud Operations Homelab
 
-Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, and cloud engineering skills through hands-on infrastructure projects.
+Building an enterprise-inspired Ubuntu Server homelab to develop Linux, cloud operations, infrastructure support, automation, containerization, monitoring, and cloud engineering skills through hands-on infrastructure projects.
 
-**Current status:** Phase 4 complete: Docker Services  
-**Completed milestones:** Project foundation, Ubuntu Server installation, SSH remote administration, Bash automation, and Docker services
+**Current status:** Phase 5 complete: Monitoring and Observability  
+**Next phase:** Phase 6: Terraform and AWS  
+**Completed milestones:** Project foundation, Ubuntu Server installation, SSH remote administration, Bash automation, Docker services, and monitoring and observability
 
 **Skills demonstrated so far:**
 
@@ -37,6 +38,11 @@ Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, 
 - Custom static content served from a containerized web service
 - Container log review and troubleshooting
 - Controlled service shutdown and recovery testing
+- Prometheus installation and configuration
+- Node Exporter metrics collection
+- PromQL queries for host and service health validation
+- Grafana dashboarding and visualization
+- Monitoring documentation, baseline metrics, and health checks
 - Git and GitHub documentation workflow
 - Infrastructure documentation and troubleshooting notes
 - Changelog updates and versioned GitHub milestones
@@ -62,8 +68,9 @@ Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, 
 
 ## Current Areas of Focus
 
-- Cloud DevOps
 - Cloud Operations
+- Cloud Engineering
+- Infrastructure Support
 - Linux System Administration
 - AWS
 - Terraform
@@ -71,10 +78,11 @@ Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, 
 - Bash Automation
 - Docker
 - Docker Compose
+- Prometheus
+- Grafana
 - Monitoring and Observability
-- CI/CD
+- CI/CD Fundamentals
 - GitHub Actions
-- Ansible
 
 ---
 
@@ -113,16 +121,18 @@ These projects come from my cybersecurity learning path and demonstrate document
 
 - Completed Phase 3 of the Cloud Operations Homelab focused on Bash automation
 - Completed Phase 4 of the Cloud Operations Homelab focused on Docker services
+- Completed Phase 5 of the Cloud Operations Homelab focused on Prometheus, Grafana, Node Exporter, monitoring, and observability
 - Completed Docker fundamentals training
 - Completed Jenkins CI/CD fundamentals training
 - Completed introductory GitHub Actions training
+- Completed Prometheus training
 
 ---
 
 ## What I'm Building Toward
 
-My goal is to bring my production support, incident response, technical troubleshooting, documentation, and mission-critical operations experience into cloud infrastructure and DevOps roles where reliability, automation, communication, and disciplined execution matter.
+My goal is to bring my production support, incident response, technical troubleshooting, documentation, and mission-critical operations experience into cloud operations, cloud infrastructure, and cloud engineering roles where reliability, automation, monitoring, communication, and disciplined execution matter.
 
 ---
 
-Thanks for visiting. I'm currently building my Cloud Operations Homelab and documenting the process publicly as I transition deeper into Cloud DevOps and Cloud Operations.
+Thanks for visiting. I'm currently building my Cloud Operations Homelab and documenting the process publicly as I transition deeper into Cloud Operations and Cloud Engineering.
