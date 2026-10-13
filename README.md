@@ -52,8 +52,8 @@ Building an enterprise-inspired Ubuntu Server homelab to develop Linux, DevOps, 
 | Phase 2 | SSH Remote Administration | Complete |
 | Phase 3 | Bash Automation | Complete |
 | Phase 4 | Docker Services | Complete |
-| Phase 5 | Monitoring and Observability | Next |
-| Phase 6 | Terraform and AWS | Not Started |
+| Phase 5 | Monitoring and Observability | Complete |
+| Phase 6 | Terraform and AWS | Next |
 | Phase 7 | GitHub Actions CI/CD | Not Started |
 | Phase 8 | Ansible Configuration Management | Not Started |
 | Phase 9 | Kubernetes Expansion | Future |
